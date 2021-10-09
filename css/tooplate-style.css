@@ -805,7 +805,7 @@ mark {
   letter-spacing: 0.7px;
   margin-top: 10px;
 }
-
+@media (min-width: 1200px) {
 .proj h4:before {
   content: "";
   display: block;
@@ -826,7 +826,7 @@ mark {
   top: 50%;
   position: absolute;
 }
-
+}
 
 #what-we-do {
 	background-image: url(../img/what-we-do-bg.png);
